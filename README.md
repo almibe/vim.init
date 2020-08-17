@@ -1,2 +1,2 @@
-# vimrc
-I suck at vim
+# vim.init
+I suck at neovim
